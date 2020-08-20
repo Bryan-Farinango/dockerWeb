@@ -15,7 +15,7 @@ Comprobamos que el contenedor se está ejecutando
 ```
 docker ps
 ```
-![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/p1.png)
+![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/w1.png)
 
 Podemos obtener el siguiente error a continuación y borraremos un docker duplicado para solucionarlo
 
@@ -34,31 +34,4 @@ Servidor web Wordpress
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          
+   
