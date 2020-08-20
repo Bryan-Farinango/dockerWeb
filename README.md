@@ -55,5 +55,5 @@ Corremos nuestro archivo
 Consumo de datos de MariaDB usando apache
 ![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/11.png)
 
-Consumo de datos de Postgres cusando apache
-
+Consumo de datos de Postgres usando apache
+![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/12.png)
