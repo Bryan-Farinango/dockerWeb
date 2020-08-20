@@ -15,7 +15,7 @@ Comprobamos que el contenedor se está ejecutando
 ```
 docker ps
 ```
-![](https://github.com/Bryan-Farinango/dockerWeb/master/assets/p1.png)
+![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/p1.png)
 
 
 
