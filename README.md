@@ -17,6 +17,18 @@ docker ps
 ```
 ![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/p1.png)
 
+Podemos obtener el siguiente error a continuación y borraremos un docker duplicado para solucionarlo
+
+![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/p2.png)
+
+Configuración de base de datos MariaDB y corriendo el servidor WEB Wordpress
+
+
+![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/p3.png)
+
+Servidor web Wordpress
+
+![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/p4.png)
 
 
 
