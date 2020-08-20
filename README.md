@@ -7,7 +7,10 @@ Descargamos la imagen con el comando «docker pull» y el nombre de la imagen a 
 ```
 docker pull wordpress:4.7.2-apache
 ```
-Esta implementación también puede realizarse para Postgree
+
+![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/w1.png)
+
+Esta implementación también puede realizarse para Postgres
 
 ![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/w1.png)
 
