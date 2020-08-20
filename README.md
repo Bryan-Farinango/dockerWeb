@@ -1,4 +1,4 @@
-# dockerWeb Prueba Servicios sobre redes - ESFOT
+# DockerWeb Prueba Servicios sobre redes - ESFOT
 Integrantes:  
 * Bryan Farinango
 * Josselyn Vela
@@ -7,6 +7,10 @@ Descargamos la imagen con el comando «docker pull» y el nombre de la imagen a 
 ```
 docker pull wordpress:4.7.2-apache
 ```
+Creamos y ejecutamos un docker de nombre «wordpress01»
+```
+docker run --name wordpress01 -d wordpress:4.7.2-apache
+'''
 
 
           
