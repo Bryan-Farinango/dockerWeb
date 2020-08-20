@@ -14,7 +14,7 @@ docker pull postgres
 ```
 ![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/1.png)
 
-A continuación con corremos nuestra base de datos y contraseña en postgres
+A continuación corremos nuestra base de datos y contraseña en postgres
 ![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/2.png)
 
 Realizamos la conexión a postgres en nuestro archivo php
