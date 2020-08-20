@@ -20,6 +20,9 @@ Creamos y ejecutamos un docker de nombre «wordpress01»
 ```
 docker run --name wordpress01 -d wordpress:4.7.2-apache
 ```
+
+![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/w6.png)
+
 Comprobamos que el contenedor se está ejecutando
 ```
 docker ps
