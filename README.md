@@ -10,7 +10,15 @@ docker pull wordpress:4.7.2-apache
 Creamos y ejecutamos un docker de nombre «wordpress01»
 ```
 docker run --name wordpress01 -d wordpress:4.7.2-apache
-'''
+```
+Comprobamos que el contenedor se está ejecutando
+```
+docker ps
+```
+
+
+
+
 
 
           
