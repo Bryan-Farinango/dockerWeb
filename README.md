@@ -3,9 +3,9 @@ Integrantes:
 * Bryan Farinango
 * Josselyn Vela
 ## Desarrollo 🚀
-* 1. Docker con Postgres
-* 2. Dcoker con Mariadb
-* 3. Consumo de datos con servidor apache 
+* 1 Docker con Postgres
+* 2 Dcoker con Mariadb
+* 3 Consumo de datos con servidor apache 
 
 ## 1. Implementacion de Docker con Postgres 📌
 Ejecutamos el siguiente comando
