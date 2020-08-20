@@ -27,7 +27,7 @@ Comprobamos que el contenedor se está ejecutando
 ```
 docker ps
 ```
-
+![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/w3.png)
 
 Podemos obtener el siguiente error a continuación y borraremos un docker duplicado para solucionarlo
 
