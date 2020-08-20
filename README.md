@@ -7,6 +7,10 @@ Descargamos la imagen con el comando «docker pull» y el nombre de la imagen a 
 ```
 docker pull wordpress:4.7.2-apache
 ```
+Esta implementación también puede realizarse para Postgree
+![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/w1.png)
+![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/w2.png)
+
 Creamos y ejecutamos un docker de nombre «wordpress01»
 ```
 docker run --name wordpress01 -d wordpress:4.7.2-apache
@@ -15,7 +19,7 @@ Comprobamos que el contenedor se está ejecutando
 ```
 docker ps
 ```
-![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/w1.png)
+
 
 Podemos obtener el siguiente error a continuación y borraremos un docker duplicado para solucionarlo
 
