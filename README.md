@@ -38,6 +38,10 @@ Configuración de base de datos MariaDB y corriendo el servidor WEB Wordpress
 
 ![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/p3.png)
 
+Codigo de nuestra web
+
+![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/w7.png)
+
 Servidor web Wordpress
 
 ![](https://github.com/Bryan-Farinango/dockerWeb/blob/master/assets/p4.png)
